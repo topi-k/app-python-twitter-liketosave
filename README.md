@@ -45,6 +45,9 @@ It will run on any operating system, as long as Python 3.9.x and tweepy are avai
  **保存された画像の著作権は、著作者に帰属します。**  
  **The copyright of the saved images belongs to the author.**
  
+ ## Reference
+ Tweepy/tweepy (https://github.com/tweepy)
+ 
  ## Author
  [Twitter](https://twitter.com/t0pi_)
  
