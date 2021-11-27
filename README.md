@@ -22,7 +22,7 @@ It will run on any operating system, as long as Python 3.9.x and tweepy are avai
  Write the obtained token in lines 9 to 12 of main.py.  
  3. いいねを監視するアカウントと画像を保存するディレクトリを、main.pyの20と24行目に記述する。  
  Write the account to monitor for likes and the directory to store the images in lines 20 and 24 of main.py.  
- 4. 実行する。
+ 4. 実行する。  
  Run it.
  
  ## Features
